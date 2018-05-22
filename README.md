@@ -1,6 +1,6 @@
 # Random-Game-Launcher
 
-EVERYTHING YOU NEED IS IN THE BUILD.7Z ARCHIVE.  
+The build.7z archive contains everything you need to run this.  
 You have to copy the path to [game].exe, NOT just the folder it's in.  
 games.txt MUST be in the SAME FOLDER as play_a_game.exe/.py
 
