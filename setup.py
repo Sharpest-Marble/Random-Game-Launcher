@@ -19,9 +19,9 @@ options = {
 }
 
 setup(
-    name = "<any name>",
+    name = "Random Game Launcher",
     options = options,
-    version = "<any number>",
-    description = '<any description>',
+    version = "0.1",
+    description = 'Launches a random game',
     executables = executables
 )
