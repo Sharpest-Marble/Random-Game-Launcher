@@ -1,2 +1,1 @@
-D:\Steam\steamapps\common\Super Hexagon\superhexagon.exe
-"D:/Riot Games/LeagueClient.exe"
+delete this line, and paste the file path for the games' executable
